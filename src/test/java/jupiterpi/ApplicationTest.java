@@ -9,6 +9,6 @@ public class ApplicationTest {
     public void test() throws Exception {
 		Application a = new Application();
     	assertEquals( a.add(1, 2), 3);
-    }
+    } 
 	
 }
